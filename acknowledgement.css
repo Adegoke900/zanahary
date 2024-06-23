@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.lover {
+    width: 32px;
+    height: 32px;
+    top: 60px;
+    left: 85px;
+    padding: 2px 0px 2.58px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.hi {
+    width: 370px;
+    height: 40px;
+    top: 56px;
+    left: 147px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.hi p {
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+
+    color: #000000;
+
+}
+
+.love {
+    display: flex;
+    gap: 30px;
+    margin-top: 60px;
+    margin-left: 85px;
+    margin-bottom: 120px;
+}
+
+
+.superb {
+    width: 368px;
+    height: 497.86px;
+    top: 226px;
+    left: 216px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 100px;
+}
+
+.super {
+    margin-left: 180px;
+}
+
+
+.but button {
+    margin-left: 410px;
+    margin-top: 70px;
+    width: 258px;
+    height: 60px;
+    top: 830px;
+    left: 408px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(90deg, #00D1FF 13.57%, rgba(13, 239, 117, 0.5) 100%);
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    margin-bottom: 150px;
+    border: none;
+
+}
+
+
+.back {
+    background-image: url('./Rectangle\ 132.png');
+    background-size: 100% 601px;
+    Height: 1024px;
+    background-repeat: no-repeat;
+    background: linear-gradient(180deg, #00D1FF 0%, #0DEF75 100%);
+
+}
+
+.spy {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.dang {
+    width: 381px;
+    height: 40px;
+    top: 197px;
+    left: 943px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 190px;
+    margin-left: 110px;
+
+}
+
+
+.dang p {
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.deng {
+    width: 177px;
+    height: 40px;
+    top: 253px;
+    left: 950px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 16px;
+    margin-left: 110px;
+
+}
+
+.deng p {
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 40px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+
+.contact {
+    width: 73px;
+    height: 23px;
+    top: 356px;
+    left: 953px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 60px;
+    margin-left: 110px;
+
+}
+
+
+
+.contact p {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22.98px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.line {
+    width: 150px;
+    height: 0px;
+    top: 399px;
+    left: 951px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #FFFFFF;
+    margin-left: 110px;
+    
+}
+
+
+.numb {
+    width: 141px;
+    height: 23px;
+    top: 422px;
+    left: 950px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+
+.numb p {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+
+.ad {
+    width: 235px;
+    height: 46px;
+    top: 465px;
+    left: 950px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+
+
+.ad p {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #FFFFFF;
+}
